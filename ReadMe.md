@@ -1,44 +1,56 @@
-<h1>Hey 👋 I'm Kerem Kenan Eren</h1>
-<li>I'm someone interested in software development and design. 
-    I have experience in both front-end and back-end technologies, and I also work freelance on various projects. Additionally, I use GIT effectively and design with Figma.
-</li>
+# 👋 Merhaba, Ben Kerem Kenan Eren
 
-<h2>Techs</h2>
-<ul>
-    <li>HTML & CSS</li>
-    <li>Javascript</li>
-    <li>Typescript</li>
-    <li>ReactJS</li>
-    <li>SvelteJS</li>
-    <li>NextJS</li>
-    <li>Java</li>
-    <li>Spring Boot</li>
-    <li>Python</li>
-    <li>GIT</li>
-    <li>Bootstrap & tailwindcss</li>
-    <li>Figma design</li>
-</ul>
+<p align="left">
+  <a href="https://linkedin.com/in/kerem-kenan-eren-169b49253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:erenkerem8262@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<h2>Freelance</h2>
-<a href="https://bionluk.com/keremkenaneren">Bionluk</a>
-<br>
-<a href="https://www.fiverr.com/keremkenane?up_rollout=true">Fiverr</a>
-<br>
-<a href="https://www.freelancer.com/u/keremkenane">Freelancer</a>
-<br>
+---
 
-<h2>Connect with me</h2>
-<a href="https://www.linkedin.com/in/kerem-kenan-eren-169b49253/">linkedin</a>
-<br>
-<a href="mailto:erenkerem8262@gmail.com">G-mail</a>
-<br>
-<a href="https://www.instagram.com/keremkenan00/">Instagram</a>
-<br>
+### 🚀 Hakkımda
 
-<h3 >Statistics</h3>
-<div>
-<a href="https://github.com/keremkenaneren">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keremkenaneren&theme=2077" height="180em" />
-</div>
+[cite_start]Sistem mimarisi, ölçeklenebilir backend çözümleri, veri analitiği ve **yapay zeka entegrasyonları** üzerine odaklanan bir **Yazılım Geliştirici ve Girişimciyim**[cite: 2, 34, 59]. [cite_start]Projelerin teknik altyapı ihtiyaçlarını kurgularken modern araçlardan ve AI agent mimarilerinden faydalanıyor; fikirlerin hızlı, optimize ve ölçeklenebilir ürünlere dönüşmesini sağlıyorum[cite: 34, 35, 42].
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+* [cite_start]💻 **Odak Alanlarım:** SaaS, B2B, OSINT (Açık Kaynak İstihbaratı) ve Lead Generation platformları[cite: 59].
+* [cite_start]🛠️ **Yapay Zeka:** Geleneksel yapıları yapay zeka destekli sistemlere dönüştürmek, AI agent swarms ve otomasyon süreçleri kurgulamak[cite: 41, 42, 61].
+* [cite_start]⚡ **Metodoloji:** Minimum eforla maksimum verim elde etmeyi hedefleyen hızlı prototipleme ve modern geliştirme iş akışları[cite: 35].
+
+---
+
+### 🛠️ Teknik Yetkinlikler
+
+| Alan | Teknolojiler & Araçlar |
+| :--- | :--- |
+| **Diller** | [cite_start]`JavaScript`, `TypeScript` [cite: 17] |
+| **Backend & Veri** | [cite_start]`Node.js`, `RESTful APIs`, `Sistem Mimarileri`, `SQL` [cite: 15, 16, 29] |
+| **Frontend** | [cite_start]`React.js`, `Next.js`, `Tailwind CSS`, `Modern UI/UX` [cite: 18, 20] |
+| **Mobil** | [cite_start]`React Native`, `Expo` [cite: 19] |
+| **Araçlar & Devops** | [cite_start]`Git`, `Postman`, `Figma`, `Linux (Ubuntu)` [cite: 22, 23, 24] |
+
+---
+
+### 💼 Deneyim & Öne Çıkanlar
+
+#### **Usta Ajans** | [cite_start]*IT Departman Sorumlusu* `(Mart 2026 - Haziran 2026)` [cite: 37, 38, 39]
+* [cite_start]Ajansın dijital varlık kazanması ve projelerin teknik mimarilerinin kurgulanması süreçlerini yönettim[cite: 40].
+* [cite_start]Yapay zeka ajan (AI Agent) entegrasyonlarını yöneterek yazılım departmanının ürün çıkarma hızını ve operasyonel verimliliğini optimize ettim[cite: 42, 43].
+
+#### [cite_start]**Freelance Web Tasarım & Geliştirme** `(Eylül 2023 - Ocak 2026)` [cite: 47, 52]
+* [cite_start]**Prous Medya, Syntra & Bionluk** çatısı altında B2B/B2C müşteriler için kurumsal siteler, reklam siteleri ve E-ticaret platformları geliştirdim[cite: 44, 45, 46, 49, 53].
+* [cite_start]Kullanıcı deneyimi (UI/UX) yüksek, statik ve dinamik web uygulamaları teslim ettim[cite: 49, 53].
+
+#### **Exedra HRTech Company** | [cite_start]*Gönüllü Yazılım Stajyeri* `(Temmuz 2023 - Ağustos 2023)` [cite: 54, 55, 56]
+* [cite_start]İnsan kaynakları teknolojileri geliştiren bir girişim bünyesinde profesyonel yazılım süreçlerini ve takım içi network yönetimini deneyimledim[cite: 57].
+
+---
+
+### 📂 Proje Vizyonum
+
+Geliştirdiğim projelerde genellikle şu üç ana dikey üzerine yoğunlaşıyorum:
+1. [cite_start]**Gig-Economy & Pazaryeri:** Hizmet, perakende ve HRTech sektörlerine yönelik web/mobil pazaryeri mimarileri[cite: 60].
+2. [cite_start]**Veri & Otomasyon:** Yapay zeka ajanları ve gelişmiş veri işleme altyapıları ile operasyonel süreçlerin otomasyonu[cite: 61].
+3. [cite_start]**Ölçeklenebilir Frontend:** Minimalist, performanslı ve kullanıcı deneyimi odaklı modern arayüz tasarımları[cite: 62].
+
+---
+
+📈 *Repo'larımı incelemekten veya yeni fikirler/projeler için benimle iletişime geçmekten çekinmeyin!*
