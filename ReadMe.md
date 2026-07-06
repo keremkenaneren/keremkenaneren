@@ -1,47 +1,47 @@
-# 👋 Merhaba, Ben Kerem Kenan Eren
+# Kerem Kenan Eren
 
-<p align="left">
-  <a href="https://linkedin.com/in/kerem-kenan-eren-169b49253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:erenkerem8262@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+Yazılım mimarisi, veri analitiği, kullanıcı deneyimi tasarımı ve yapay zeka entegrasyonları üzerine odaklanan yazılım geliştirici ve girişimci. Projelerin teknik altyapı ihtiyaçlarını kurgularken modern araçlardan ve yapay zeka ajan mimarilerinden faydalanarak fikirlerin optimize ve ölçeklenebilir ürünlere dönüşmesini sağlar.
 
-> 📄 Kurumsal iş geçmişim ve akademik detaylar için repo içerisindeki **"Kerem Kenan Eren CV.pdf"** dosyasına göz atabilirsiniz.
+Detaylı profesyonel geçmiş ve kurumsal referanslar için repo içerisinde yer alan "Kerem Kenan Eren CV.pdf" dosyası incelenebilir.
 
 ---
 
-### 🚀 Ben Ne Yapıyorum? (Odak Alanlarım)
+### Teknik Yetkinlik Matrisi
 
-Sistem mimarisi, ölçeklenebilir backend çözümleri, veri analitiği ve **yapay zeka entegrasyonları** üzerine odaklanan bir yazılım geliştirici ve girişimciyim. Fikirlerin hızlı, optimize ve ölçeklenebilir ürünlere dönüşmesi için modern altyapılar kurguluyorum.
-
-* 🖥️ **SaaS & B2B Geliştirme:** İşletmelerin dijital altyapılarını güçlendiren, operasyonel verimliliği artıran ve veri analitiği sunan bulut tabanlı platformlar inşa ediyorum.
-* 🕵️‍♂️ **OSINT & Lead Generation:** Açık kaynak istihbaratı yöntemleriyle web kazıma (scraping) ve veri işleme altyapıları kurgulayarak anlamlı B2B iş verileri üretiyorum.
-* 🤖 **AI Agent Orchestration:** Yapay zeka ajanlarını (AI Agents) ve çoklu ajan sistemlerini (swarm) yazılım süreçlerine ve operasyonel iş akışlarına entegre ederek otomasyon sistemleri geliştiriyorum.
-
----
-
-### 🧠 Ne Biliyorum? (Teknoloji Yığınım)
-
-| Alan | Teknolojiler & Araçlar |
+| Teknoloji / Alan | Seviye / Deneyim Detayı |
 | :--- | :--- |
-| **Diller** | `JavaScript`, `TypeScript`, `Python` |
-| **Backend & Veri** | `Node.js`, `RESTful APIs`, `Prisma`, `Supabase`, `SQL`, `Sistem Mimarileri` |
-| **Frontend & UI** | `React.js`, `Next.js`, `Tailwind CSS`, `Modern UI/UX Entegrasyonları` |
-| **Mobil** | `React Native`, `Expo` |
-| **Araçlar & OS** | `Linux (Ubuntu)`, `Git`, `Postman`, `Figma` |
-
-🎨 **Tasarım Felsefem:** Karmaşık gölgelendirmeler veya göz yoran efektler yerine; net sınırlara, doğru font boşluklarına ve kontrast renk değişimlerine dayanan, Apple estetiğine yakın minimalist ve performanslı arayüzler kurgulamak.
-
----
-
-### ⚡ Ne Yapabilirim? (Geliştirdiğim Mimari Çözümler)
-
-Bugüne kadar mimarisini sıfırdan tasarlayıp hayata geçirdiğim ve teknik kapasitemi yansıtan bazı konseptler:
-
-* **Gig-Economy & Pazaryeri Altyapıları:** Hizmet, perakende ve HRTech sektörlerine yönelik; güvenliği yüksek tutmak adına QR kod ve anlık fotoğraf doğrulama altyapılarına sahip dinamik mobil ve web pazaryerleri.
-* **Akıllı Lead Keşif Motorları:** Web sitelerinin arka planda kullandığı teknoloji yığınlarını (tech stack) ve aktif Google Ads reklam bütçelerini analiz ederek sıcak B2B satış fırsatları yakalayan istihbarat motorları.
-* **Hızlı Dağıtım & Statik Web Altyapıları:** İşletmeler için optimize edilmiş, hız ve SEO odaklı statik web çözümleri şablonları ve bunların barındırma (hosting) yönetim süreçleri.
-* **Yapay Zeka Destekli Otomasyon:** Geleneksel iş ve ajans yapılarını, AI Agent'lar kullanarak yüksek verimlilikle çalışan otonom yazılım ve üretim süreçlerine dönüştürmek.
+| **HTML, CSS, JavaScript** | Profesyonel |
+| **Tailwind CSS, Bootstrap** | Profesyonel |
+| **UI/UX Tasarım (Figma, Canva)** | Profesyonel |
+| **Git & Versiyon Kontrolü** | Profesyonel |
+| **CI/CD & Dağıtım (Vercel, GitHub Actions, Netlify)** | Profesyonel |
+| **Supabase** | Advanced (8 / 10) |
+| **AI Yardımlı Geliştirme (AI-Assisted Dev)** | Advanced (8 / 10) |
+| **Next.js** | Competent (7 / 10) |
+| **React.js** | Intermediate (6 / 10) |
+| **API Tasarımı & Entegrasyon** | Intermediate (6 / 10) |
+| **TypeScript** | Orta Seviye |
+| **SQL & Veritabanı Mantığı** | Teorik ve İlişkisel Mimari Bilgisi |
+| **Java & Spring Boot** | Geçmiş Deneyim (E-Ticaret Backend Mimarisi / Monolitik Yapılar) |
 
 ---
 
-📈 *Projelerimi incelemek, teknik altyapıları tartışmak veya yeni bir fikir üzerinde çalışmak için benimle iletişime geçmekten çekinmeyin!*
+### Mimari Odak ve Çözüm Kapasitesi
+
+* **SaaS ve B2B Altyapıları:** İşletmelerin dijital altyapılarını güçlendiren, operasyonel verimlilik odaklı ve veri analitiği sunan bulut tabanlı platformların mimari tasarımı.
+* **OSINT ve Lead Generation:** Açık kaynak istihbaratı yöntemleriyle veri kazıma ve veri işleme altyapıları kurgulayarak, kurumsal firmalar için hedef pazar ve reklam bütçesi analizleri gerçekleştiren motorların geliştirilmesi.
+* **Yapay Zeka Otomasyonu:** Çoklu ajan sistemlerinin (AI Agent Swarms) ve modern geliştirme iş akışlarının operasyonel süreçlere entegrasyonu.
+* **Gelişmiş Doğrulama Sistemleri:** Gig-economy ve platform ekonomisi projelerinde güvenlik ve veri tutarlılığını sağlamak adına fotoğraf ve QR kod tabanlı entegre doğrulama mekanizmaları.
+
+---
+
+### Tasarım ve Arayüz Felsefesi
+
+Geliştirilen projelerin ön yüz mimarisinde karmaşık gölgelendirmeler veya işlevsiz görsel efektler yerine; net sınırlara, tipografik hiyerarşiye, doğru font boşluklarına ve kontrast renk değişimlerine dayanan minimalist bir çizgi benimsenmiştir. Odak noktası, performans optimizasyonu ve yüksek kullanıcı deneyimidir (UI/UX).
+
+---
+
+### İletişim
+
+* **LinkedIn:** linkedin.com/in/kerem-kenan-eren-169b49253/
+* **E-Posta:** erenkerem8262@gmail.com
